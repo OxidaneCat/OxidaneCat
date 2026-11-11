@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="OxidanceCat/Main.svg" alt="Metrics" width="100%">
+<img src="github-metrics.svg" alt="Metrics" width="100%">
+
