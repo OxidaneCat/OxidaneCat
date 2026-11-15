@@ -17,7 +17,6 @@ jobs:
           token: ${{ secrets.PERSONALTOKEN }}
 
           user: OxidaneCat
-          template: classic
           base: activity, metadata
           plugin_stars: yes
           plugin_stars_limit: 4
