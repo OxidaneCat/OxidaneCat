@@ -6,6 +6,7 @@
     Currently Building a Profile Customization Project.  publishing real soon <br/>
     I mostly code in Python :snake: and HTML :five:
   </p>
+<img src="contribution_animation.png" alt="4-Year Contribution Animation" width="80%">
 </div>
 
 <p>
