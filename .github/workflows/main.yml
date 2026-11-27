@@ -15,11 +15,6 @@ jobs:
           token: ${{ secrets.PERSONALTOKEN }}
 
 
-          
-  update-animation:
-    uses: YourUsername/YourRepoName/.github/workflows/automation.yml@main
-    secrets:
-      PERSONALTOKEN: ${{ secrets.PERSONALTOKEN }}
     
   github-metrics:
     runs-on: ubuntu-latest
