@@ -6,8 +6,8 @@
     <a href="https://github.com/OxidaneCat/Contribution-Graph-Custom-Video">CHECK OUT MY NEWEST & COOLEST PROJECT
     </a></br>
     I mostly code in Python :snake: and HTML :five:
-  </p>
-<img src="contribution_animation.png" alt="4-Year Contribution Animation" width="90%">
+  </p><a href="https://github.com/OxidaneCat/Contribution-Graph-Custom-Video">
+<img src="contribution_animation.png" alt="4-Year Contribution Animation" width="90%"></a>
 </div>
 
 <p>
