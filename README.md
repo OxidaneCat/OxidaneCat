@@ -3,10 +3,11 @@
   <h1>Hello, I'm Michael👋</h1>
   <p>
     A student 🏫<br />
-    Currently Building a Profile Customization Project.  publishing real soon <br/>
+    <a href="https://github.com/OxidaneCat/Contribution-Graph-Custom-Video">CHECK OUT MY NEWEST & COOLEST PROJECT
+    </a></br>
     I mostly code in Python :snake: and HTML :five:
   </p>
-<img src="contribution_animation.png" alt="4-Year Contribution Animation" width="80%">
+<img src="contribution_animation.png" alt="4-Year Contribution Animation" width="90%">
 </div>
 
 <p>
