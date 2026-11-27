@@ -1,6 +1,5 @@
 name: Profile
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 8,23 * * *"}]
   workflow_dispatch:
 jobs:
@@ -14,20 +13,9 @@ jobs:
         with:
           token: ${{ secrets.PERSONALTOKEN }}
 
-
-    
-  github-metrics:
-    runs-on: ubuntu-latest
-    environment: 
-      name: profile
-    permissions:
-      contents: write
-      
-    steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.PERSONALTOKEN }}
-
           user: OxidaneCat
           base: activity, metadata
           plugin_stars: yes
